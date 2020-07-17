@@ -4,8 +4,8 @@ GEM
     coderay (0.8.357)
     curb (0.8.1)
     mustache (0.11.2)
-    rack (1.4.1)
-    rack-protection (1.2.0)
+    rack (1.6.13)
+    rack-protection (1.5.5)
       rack
     shotgun (0.9)
       rack (>= 1.0)
